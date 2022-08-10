@@ -1,0 +1,1 @@
+web: gunicorn cinemamovies.wsgi --log-file -
